@@ -1,0 +1,3 @@
+git config --state user.name or email
+git init
+git add filename or .(all change file)
