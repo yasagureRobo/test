@@ -5,3 +5,6 @@ git rm --cached filename (unstage file)
 git commit -m "commit message"(commit staging files)
 git log (log)
 hoge
+git restore --stage filename
+git reset --hard commitID
+git revert commitID
