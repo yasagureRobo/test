@@ -4,3 +4,4 @@ git add filename or .(all change file)
 git rm --cached filename (unstage file)
 git commit -m "commit message"(commit staging files)
 git log (log)
+hoge
