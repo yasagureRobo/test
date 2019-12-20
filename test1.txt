@@ -8,3 +8,4 @@ hoge
 git restore --stage filename
 git reset --hard commitID
 git revert commitID
+hogaaaaaaaaaaaaaaa
