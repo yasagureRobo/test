@@ -11,3 +11,4 @@ git revert commitID
 git branch ブランチの一覧と現在のブランチの確認
 git branch ブランチ名 新しくブランチを作成する
 git checkout ブランチ名 指定したブランチに移動する
+git merge ブランチ名
