@@ -2,4 +2,4 @@ abc
 hogepuge
 cot
 github
-home hogefuga
+hogefuga
